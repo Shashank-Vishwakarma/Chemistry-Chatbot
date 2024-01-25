@@ -1,0 +1,17 @@
+{
+  "name": "chem-bot",
+  "version": "1.0.0",
+  "description": "This is a chatbot for answering chemistry questions.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shashank Vishwakarma",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^28.2.0"
+  }
+}
